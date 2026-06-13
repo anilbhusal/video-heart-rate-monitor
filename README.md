@@ -4,7 +4,7 @@
 
 The camera is pressed against the tip of a finger such that camera lens is completely covered by the figure. With the flash light is turned on, a 15 seconds video is recorded keeping camera and hand still and intact.
 
-![Video Recording Procedure](Pictures/ExperimentSetup-SideView.jpg)
+<img width="563" height="384" alt="ExperimentSetup-SideView" src="https://github.com/user-attachments/assets/047d3a0e-a46c-40ce-8821-a35b852b1840" />
 
 ## Reading video frame by frame
 
@@ -138,10 +138,9 @@ plt.show()
 
 
     
-![png](graphs/intensityGraph.png)
+<img width="1600" height="500" alt="intensityGraph" src="https://github.com/user-attachments/assets/c45e7ee9-1377-4611-be33-032f7b6c0735" />
+
     
-
-
 ## Fast Fourier Transform of intensity values of each frames.
 
 
@@ -197,7 +196,8 @@ plt.show()
 
 
     
-![png](graphs/spectrumAnalysis.png)
+<img width="1010" height="393" alt="spectrumAnalysis" src="https://github.com/user-attachments/assets/bc48d17a-2a6c-472f-b358-da3df1592f48" />
+
     
 
 
@@ -284,7 +284,8 @@ plt.show()
 
 
     
-![png](graphs/errorComparison_Beat.png)
+<img width="800" height="500" alt="errorComparison_Beat" src="https://github.com/user-attachments/assets/4f760dc2-a889-4052-a52a-ba3d29f7e56a" />
+
     
 
 
@@ -327,10 +328,9 @@ plt.show()
 
 
     
-![png](graphs/errorComparison_oxygen.png)
+<img width="800" height="500" alt="errorComparison_oxygen" src="https://github.com/user-attachments/assets/47bc1995-5ba6-42c8-aa43-5cd3ba6afcb4" />
+
     
-
-
 
 ```python
 print(so2_err_mean, so2_err_std)
@@ -339,7 +339,3 @@ print(so2_err_mean, so2_err_std)
     -2.3440000000000025 1.7103520105522112
     
 
-
-```python
-
-```
